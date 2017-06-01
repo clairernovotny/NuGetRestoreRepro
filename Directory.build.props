@@ -1,0 +1,5 @@
+<Project>    
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Threading.Analyzers" Version="15.3.23" />
+  </ItemGroup>
+</Project>
